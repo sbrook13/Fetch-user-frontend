@@ -1,0 +1,7 @@
+.card {
+    background-color: aquamarine;
+    border: 1px solid gray;
+    width: 250px;
+    margin: 5px;
+    padding: 5px;
+}
